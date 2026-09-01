@@ -1,16 +1,16 @@
-## Hi there 👋
+# Narek Dunamalyan
 
-<!--
-**narekk1202/narekk1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend engineer. React, Next.js, TypeScript.
 
-Here are some ideas to get you started:
+I care about architecture that stays sane as the product grows: Feature-Sliced Design for the feature map, layered architecture so API logic, state, and UI don't collapse into each other.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work
+
+- [Veylora](https://veylora.space) — lock a decision, set a review date, come back and record what actually happened. In progress. [repo](https://github.com/narekk1202/veylora)
+- [ValoRoast](https://valoroast-eta.vercel.app) — enter a Riot ID, get roasted from your actual Valorant stats. [repo](https://github.com/narekk1202/valo-roast)
+
+## Stack
+
+React · Next.js · TypeScript · TanStack Query · Zustand · Zod · Tailwind · i18n
+
+Yerevan. [LinkedIn](https://www.linkedin.com/in/narek-dunamalyan-6a41a8298)

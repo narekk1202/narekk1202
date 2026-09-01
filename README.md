@@ -6,7 +6,7 @@ I care about architecture that stays sane as the product grows: Feature-Sliced D
 
 ## Work
 
-- [Veylora](https://veylora.space) — lock a decision, set a review date, come back and record what actually happened. In progress. [repo](https://github.com/narekk1202/veylora)
+- [Veylora](https://veylora.space) — a decision review app for recording decisions and evaluating outcomes over time. In development. [repo](https://github.com/narekk1202/veylora)
 - [ValoRoast](https://valoroast-eta.vercel.app) — enter a Riot ID, get roasted from your actual Valorant stats. [repo](https://github.com/narekk1202/valo-roast)
 
 ## Stack

@@ -1,6 +1,6 @@
 # Narek Dunamalyan
 
-Frontend engineer. React, Next.js, TypeScript.
+Frontend developer. React, Next.js, TypeScript.
 
 I care about architecture that stays sane as the product grows: Feature-Sliced Design for the feature map, layered architecture so API logic, state, and UI don't collapse into each other.
 
